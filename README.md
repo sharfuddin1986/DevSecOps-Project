@@ -6,7 +6,7 @@
 
   ![1_9VuTnnpf2FlYbOdHBj6KDw (1)](https://github.com/user-attachments/assets/9a785428-7643-48bd-8d96-cf0a2d67e8a5)
     
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+    
   </a>
 </div>
 
